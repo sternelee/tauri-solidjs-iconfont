@@ -1,5 +1,5 @@
 [package]
-name = "tauri-solid-example"
+name = "tauri-iconfont"
 version = "0.1.2"
 description = "A Tauri App"
 authors = [ "you" ]
